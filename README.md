@@ -16,6 +16,21 @@ Enemies spawn in waves, chase the player, and deal damage on contact. The player
 
 ---
 
+## Screenshots
+
+### Main Menu
+![Main Menu](docs/screenshots/main-menu.png)
+
+### Gameplay
+![Gameplay](docs/screenshots/gameplay.png)
+
+### Game Over
+![Game Over](docs/screenshots/game-over.png)
+
+### Pause Menu
+![Pause Menu](docs/screenshots/pause-menu.png)
+---
+
 ## Controls
 
 | Action | Input |
