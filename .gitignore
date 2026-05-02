@@ -12,6 +12,7 @@ UserSettings/
 .vs/
 .vscode/
 .idea/
+.vsconfig
 *.csproj
 *.sln
 *.user
