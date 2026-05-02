@@ -1,0 +1,22 @@
+# Unity files that should be ignored by GitHub Linguist language statistics
+*.shader linguist-vendored
+*.shadergraph linguist-vendored
+*.hlsl linguist-vendored
+*.cginc linguist-vendored
+*.compute linguist-vendored
+
+# Unity generated/asset files should not dominate language stats
+*.mat linguist-vendored
+*.asset linguist-vendored
+*.prefab linguist-vendored
+*.unity linguist-vendored
+*.meta linguist-vendored
+*.anim linguist-vendored
+*.controller linguist-vendored
+*.overrideController linguist-vendored
+*.renderTexture linguist-vendored
+*.physicMaterial linguist-vendored
+*.physicsMaterial2D linguist-vendored
+
+# Make sure C# is counted normally
+*.cs linguist-detectable
