@@ -16,6 +16,20 @@ Enemies spawn in waves, chase the player, and deal damage on contact. The player
 
 ---
 
+## Demo Video
+
+A short gameplay demo is available here:
+
+[Watch Demo](https://youtu.be/AjH8d87WDQA)
+
+## Windows Build
+
+A playable Windows build is available in the GitHub Releases section:
+
+[Download Windows Build](https://github.com/Jason404T/ArenaSurvival-Unity/releases/tag/v1.0)
+
+---
+
 ## Screenshots
 
 ### Main Menu
